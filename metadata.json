@@ -1,0 +1,5 @@
+{
+  "name": "AI Task Master",
+  "description": "An automated project roadmap system that transforms big goals into detailed daily checklists using Gemini AI.",
+  "requestFramePermissions": []
+}
